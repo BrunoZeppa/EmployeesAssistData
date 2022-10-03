@@ -6,7 +6,7 @@
   "scripts": {
     "start": "nodemon server.js"
   },
-  "author": "Julio Gayosso, Juan Pineda, Bruno Zeppa",
+  "author": "Bruno Zeppa",
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.1",
